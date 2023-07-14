@@ -20,7 +20,6 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  scroll-snap-align: start;
 }
 
 nav img {
