@@ -92,11 +92,12 @@ export default {
 #firstElement {
   width: 100%;
   min-height: 600px;
-  height: 90vh;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  scroll-snap-align: start;
 }
 
 #card {
@@ -239,8 +240,8 @@ export default {
   color: white;
   font-weight: 600;
   position: absolute;
-  bottom: 20px;
-  right: 10px;
+  bottom: 1px;
+  right: 20px;
   background-image: linear-gradient(to bottom, rgb(211, 10, 64) 0%, rgb(238, 12, 72) 100%);
   box-shadow: 1px 1px 12px 2px rgba(128, 128, 128, 0.726);
   transform: scale(1.09, 1.09);

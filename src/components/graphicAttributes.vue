@@ -115,7 +115,7 @@ export default {
 
       columns[i].style.height = `${result}%`
       columns[i].style.backgroundImage = `linear-gradient(180deg, #57fbd8 0%, #67e1f6 100%)`
-      columns[i].style.transition = `2s 3s`
+      columns[i].style.transition = `2s 2s`
     }
   }
 }
