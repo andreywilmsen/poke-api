@@ -9,11 +9,10 @@ Executando a busca, será retornado para a interface dados relevantes sobre o po
 
 ## 🔧 Preparando o ambiente
 
-Para executar esse sistema deverá ser instalado em seu computador o Node.JS - https://nodejs.org/en 
+Para executar esse sistema deverá ser instalado em seu computador o Node.JS - https://nodejs.org/en - logo após instale o pacote do Vue.JS (fundamental para o funcionamento da aplicaçao) com o script *npm install -g @vue/cli*
 
 Scripts para execução:
 * *npm run serve:  Rodar em desenvolvimento*
-* *npm run build:  Rodar em produção*
 
 ## 🧑‍💻 Desenvolvedor
 
